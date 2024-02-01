@@ -7,5 +7,3 @@ These documents are **not** included in our [Community Documentation on the CHAO
 - [CHAOSScast](https://github.com/chaoss/community/blob/main/community-operations/chaosscast.md) - How to plan, record and publish
 - [CHAOSScon](https://github.com/chaoss/community/blob/main/community-operations/chaosscon.md) - How to plan 
 - [CHAOSSweekly](https://github.com/chaoss/community/blob/main/community-operations/newsletter.md) - How to publish
-
-[check](https://github.com/Francisamght/community/blob/main/community-operations/chaosscast.md)
